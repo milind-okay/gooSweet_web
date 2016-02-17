@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  >
+  <url> 
+
+    <loc>http://www.goosweet.com</loc> 
+	 <lastmod>2015-03-11T18:15:36+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+    <image:image>
+       <image:loc>http://www.goosweet.com/web/images/br1m.jpg</image:loc> 
+    </image:image>
+
+   
+
+  </url>
+  <rdf:Description rdf:about="http://www.goosweet.com">
+  <si:title>goosweet.com</si:title>
+  <si:author>cake</si:author>
+</rdf:Description>
+</urlset>
